@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="250px"
+   height="35px"
+   viewBox="0 0 250 35"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="Ukraine-FTB.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3923"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="192.5"
+     inkscape:cy="-12"
+     inkscape:window-width="1902"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3918">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter3642"
+       x="-0.018737183"
+       y="-0.1579308"
+       width="1.0319634"
+       height="1.3816661">
+      <feFlood
+         flood-opacity="0.74902"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3632" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3634" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur3636" />
+      <feOffset
+         dx="-1"
+         dy="1"
+         result="offset"
+         id="feOffset3638" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3640" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0d61b2;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke;fill-opacity:1"
+       id="rect391"
+       width="60"
+       height="18"
+       x="190.05019"
+       y="0.059003461" />
+    <rect
+       style="fill:#ebc107;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
+       id="rect1837"
+       width="60"
+       height="17"
+       x="190.02995"
+       y="18.019537" />
+    <rect
+       style="fill:#555555;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
+       id="rect2619"
+       width="190"
+       height="35"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.5023px;line-height:1;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';text-align:center;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke;filter:url(#filter3642)"
+       x="92.208092"
+       y="24.898129"
+       id="text3040"
+       transform="matrix(0.95181119,0,0,0.97549926,8.2704324,-1.0236082)"><tspan
+         sodipodi:role="line"
+         id="tspan3038"
+         x="92.208092"
+         y="24.898129"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.5023px;font-family:'Alegreya SC';-inkscape-font-specification:'Alegreya SC';fill:#ffffff;fill-opacity:1;stroke-width:0">#StandWithUkraine</tspan></text>
+  </g>
+</svg>
