@@ -1,0 +1,31 @@
+<svg fill="none" viewBox="0 0 800 120" width="800" height="300" xmlns="http://www.w3.org/2000/svg">
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Caprasimo&amp;display=swap');
+
+		.container {
+			background: linear-gradient(0deg, #000099, #0000d2);
+
+			width: 100%;
+			height: 100px;
+
+			display: flex;
+			justify-content: center;
+			align-items: center;
+
+			color: white;
+
+			font-family: 'Caprasimo', cursive;
+		}
+		h2 { text-align: center; }
+		.small { font-size: 16px; }
+	</style>
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+
+			<div class="container">
+				<h2>🚧 THIS IS A PRE-RELEASE PROJECT 🚧<br /><span class="small">Stability issues may be encountered</span></h2>
+			</div>
+
+		</div>
+	</foreignObject>
+</svg>
