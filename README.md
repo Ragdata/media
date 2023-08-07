@@ -1,6 +1,6 @@
 # 📸 [Ragdata's Media]()
 
-This is where I keep all of the images I'm using here at GitHub.
+This is where I keep all the images I'm using here at GitHub.
 
 One big media repository makes them easy to find ...
 
