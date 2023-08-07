@@ -1,29 +1,27 @@
 <svg fill="none" viewBox="0 0 800 120" width="800" height="300" xmlns="http://www.w3.org/2000/svg">
 	<style>
-		@import url('https://fonts.googleapis.com/css2?family=Caprasimo&amp;display=swap');
-
 		.container {
-			background: linear-gradient(0deg, #000099, #0000d2);
+			background: linear-gradient(180deg, #40bdff, #2c69b2);
 
 			width: 100%;
-			height: 100px;
+			height: 75px;
 
 			display: flex;
 			justify-content: center;
 			align-items: center;
 
-			color: white;
+			color: #ffffdd;
 
-			font-family: 'Caprasimo', cursive;
+			font-family: 'Colonna MT', cursive;
 		}
-		h2 { text-align: center; }
-		.small { font-size: 16px; }
+		h1 { text-align: center; font-weight: normal; font-size: 36px; }
+		.small { font-size: 28px; }
 	</style>
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 
 			<div class="container">
-				<h2>🚧 THIS IS A PRE-RELEASE PROJECT 🚧<br /><span class="small">Stability issues may be encountered</span></h2>
+				<h1>🚧 THIS IS A PRE-RELEASE PROJECT 🚧</h1>
 			</div>
 
 		</div>
