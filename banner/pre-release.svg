@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 800 120" width="800" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 75" width="800" height="75" xmlns="http://www.w3.org/2000/svg">
 	<style>
 		.container {
 			background: linear-gradient(180deg, #40bdff, #2c69b2);
@@ -12,18 +12,16 @@
 
 			color: #ffffdd;
 
-			font-family: 'Colonna MT', 'Times New Roman', serif;
+			font-family: 'Alegreya', 'Colonna MT', 'Times New Roman', serif;
 		}
 		h1 { text-align: center; font-weight: normal; font-size: 36px; }
 		.small { font-size: 28px; }
 	</style>
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
-
 			<div class="container">
 				<h1>🚧 THIS IS A PRE-RELEASE PROJECT 🚧</h1>
 			</div>
-
 		</div>
 	</foreignObject>
 </svg>
